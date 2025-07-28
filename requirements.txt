@@ -1,0 +1,2 @@
+dbt
+dbt-snowflake==1.9.0
